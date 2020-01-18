@@ -5,6 +5,7 @@ sweet-7jf
 
 @http
 get /api
+get /test
 
 @tables
 data
